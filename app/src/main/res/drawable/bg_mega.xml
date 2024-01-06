@@ -1,0 +1,8 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="0dp" /> <!-- Raio dos cantos em dp -->
+    <gradient
+        android:startColor="#2CED86"
+        android:endColor="#78FBAF"
+        android:type="linear"
+        android:angle="90" />
+</shape>
